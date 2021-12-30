@@ -1,0 +1,21 @@
+html, body {
+    background-color: darkcyan;
+}
+html {
+    display: table;
+    margin: auto;
+}
+body {
+    display: table-cell;
+    vertical-align: middle;
+}
+#mainTitle {
+    text-align: center;
+    color:#dc143c;
+    border-radius: 10px;
+    background-color: darkgrey;
+}
+#catchphrase {
+    text-align: center;
+    font-style: italic;
+}
